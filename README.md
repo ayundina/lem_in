@@ -1,13 +1,13 @@
 # Lem-in
 Guides an ant colony through a graph.
 
-## Objectives
+# Objectives
 The program receives a file or data from the standard output in the format:
 1. Number_of_ants
 2. Room_with_x_and_y_coordinates
 3. Links_between_rooms
 
-Example input:<br>
+##### Example input:<br>
 6<br>
 ##start<br>
 S 0 4<br>
@@ -31,7 +31,7 @@ T 9 4<br>
 3-S<br>
 #another comment
 
-Example output:<br>
+##### Example output:<br>
 First it will print input map and the moves after the line break<br>
 
 L1-4 L2-3<br>
