@@ -8,7 +8,7 @@ The program receives a file or data from the standart output in the format:
 3. Links_between_rooms
 
 Example:
-&#35&#35start
+##start
 1 23 3
 2 16 7
 &#35comment
