@@ -1,2 +1,4 @@
 # Lem-in
-Requires to guide ant through the graph.
+Requires to guide an ant colony through a graph.
+
+## Objectives
