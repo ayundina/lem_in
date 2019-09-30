@@ -46,4 +46,10 @@ L1-T L3-6 L5-4 L2-T L4-5 L6-3<br>
 L3-T L5-6 L4-T L6-5<br>
 L5-T L6-T<br>
 
-Where L1, L2, L... refers to an ant name.
+Where L1, L2, L... refers to an ant name
+
+# Building
+`make && ./lem-in < file.map`
+
+#### To run the test
+`cd test;sh test.sh -all`
